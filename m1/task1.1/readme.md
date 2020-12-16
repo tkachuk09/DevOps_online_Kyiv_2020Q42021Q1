@@ -4,7 +4,7 @@
 • Make git init
 
 
-• Create dir m1 and task1.1
+• Created dir m1 and task1.1
 
 
 • touch readme.txt file and commit it.
@@ -26,7 +26,7 @@
 • Added dir images
 
 
-• Added two images: linux.jpg & logo.png
+• Added two images inside: linux.jpg & logo.png
 
 
 • Added image sources to index.html and commit it
@@ -47,8 +47,6 @@
      git checkout develop
      
 
-
-
 • Merge images and styles to develop
  
       git merge images 
@@ -62,4 +60,4 @@
 
 •  Push all your changes
 
-      git push orifin --all 
+      git push origin --all 
