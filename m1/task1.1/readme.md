@@ -61,3 +61,8 @@
 •  Push all your changes
 
       git push origin --all 
+
+
+What is DevOps ?
+
+In my opinion, it looks like the process of delivering code from one part of the application to another. It's rapid IT service delivery through certain concepts.
