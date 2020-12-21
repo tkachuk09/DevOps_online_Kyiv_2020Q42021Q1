@@ -1,8 +1,1 @@
-</head>
-
-<body>
-  <img src=/DevOps_online_Kyiv_2020Q42021Q1/m2/task2.2/images/1.jpg />
-  
- 
-</body>
-</html>
+![Image alt](https://github.com/tkachuk09/DevOps_online_Kyiv_2020Q42021Q1/master/m2/task2.2/images//1.jpg)
