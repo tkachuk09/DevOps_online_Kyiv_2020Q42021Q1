@@ -1,0 +1,15 @@
+a7ac57f (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+d010413 HEAD@{1}: checkout: moving from develop to master
+a7ac57f (HEAD -> master, develop) HEAD@{2}: commit (merge): commit
+48e1902 (images) HEAD@{3}: merge images: Fast-forward
+b001ae2 HEAD@{4}: checkout: moving from styles to develop
+44849d5 (styles) HEAD@{5}: commit: commit
+80addde HEAD@{6}: commit: commit
+b001ae2 HEAD@{7}: checkout: moving from develop to styles
+b001ae2 HEAD@{8}: checkout: moving from images to develop
+48e1902 (images) HEAD@{9}: commit: another commit
+3e53dd0 HEAD@{10}: commit: third commit
+b001ae2 HEAD@{11}: checkout: moving from develop to images
+b001ae2 HEAD@{12}: commit: second commit
+d010413 HEAD@{13}: checkout: moving from master to develop
+d010413 HEAD@{14}: commit (initial): first commit
