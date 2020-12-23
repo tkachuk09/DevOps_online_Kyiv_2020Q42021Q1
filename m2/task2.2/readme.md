@@ -2,7 +2,7 @@
 
 <img src="images/1.jpg">
 
-2. Take a snapchot
+2. Take a snapshot
 
 <img src="images/2.jpg">
 
@@ -22,7 +22,7 @@
 
 <img src="images/6.jpg">
 
-7. VM IP address
+7. VM IP address:
 
 <img src="images/7.jpg">
 
