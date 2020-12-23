@@ -48,9 +48,9 @@
 
 13. Executing some comands from console:
 
-VboxManage list aws
+VboxManage list
 
-VboxManage staetvm
+VboxManage startvm
 
 VboxManage list
 
