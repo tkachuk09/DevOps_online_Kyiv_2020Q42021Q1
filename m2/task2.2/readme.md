@@ -78,7 +78,7 @@
 <img src="AWS_images/ECS.png">
 
 
-14. Onlime demo application:
+14. Online demo application:
 
 
 <img src="AWS_images/app.png">
