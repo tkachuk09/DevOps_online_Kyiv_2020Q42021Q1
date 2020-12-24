@@ -57,3 +57,32 @@
 10. Configure it
 
 
+<img src="AWS_images/configure.png">
+
+
+11. Created S3 bucket
+
+
+<img src="AWS_images/s3.png">
+
+
+12. Upload some file via AWS CLI
+
+
+<img src="AWS_images/Upload.png">
+
+
+13. Created ECS
+
+
+<img src="AWS_images/ECS.png">
+
+
+14. Onlime demo application:
+
+
+<img src="AWS_images/app.png">
+
+
+
+My static website on S3: http://mypersonaldevops3.s3-website-eu-west-1.amazonaws.com/
