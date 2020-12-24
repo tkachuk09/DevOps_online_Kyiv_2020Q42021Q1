@@ -42,7 +42,7 @@
 <img src="AWS_images/LaunchBackup.png">
 
 
-8. Detach ESB from second instance and attach to the new one
+8. Detach EBS from second instance and attach to the new one
 
 
 <img src="AWS_images/Detach.png">
