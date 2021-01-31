@@ -1,3 +1,6 @@
+Part1
+
+
 1.Linux has basically 4 states
 
 Running – here it’s either running (it is the current process in the system) or it’s ready to run (it’s waiting to be assigned to one of the CPUs).
@@ -201,6 +204,41 @@ nohup - allows you to ensure that your job continues to run autonomously after l
 
 
 
-
 <img src="screenshots/photo12.png">
+
+
+
+
+
+Part2
+
+
+1.
+
+<img src="screenshots/scp.png">
+
+
+<img src="screenshots/sftp.png">
+
+
+2. 
+
+<img src="screenshots/test.png">
+
+
+3.
+
+
+<img src="screenshots/keys.png">
+
+
+4. 
+
+
+
+<img src="screenshots/test1.png">
+
+<img src="screenshots/test2.png">
+
+<img src="screenshots/test3.png">
 
